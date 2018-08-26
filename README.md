@@ -7,3 +7,6 @@ Skylake
 NVIDIA GeForce 940MX
 
 macos 10.13.6
+
+### wifi/独显/蓝牙等无法驱动。
+### 休眠无法唤醒待解决。
